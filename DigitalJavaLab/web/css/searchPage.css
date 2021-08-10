@@ -1,0 +1,47 @@
+.image_search img
+{
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+}
+
+.text_search
+{   
+    font-size: 13px;
+    /*float: left;*/
+}
+.paging
+{
+    margin-top: 40px;
+    text-align: center;
+}
+.paging a{
+    text-decoration: none;  
+    border-radius: 3px;
+    padding: 2px;
+    border: 1px solid;
+}
+.paging span{
+    border-radius: 3px;
+    padding: 2px;
+    border: 1px solid blue;
+}
+.active{
+    color: blue !important;
+    
+}
+
+.search-content{
+    display: block;
+    
+}
+.item-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+.error-search{
+    font-family: sans-serif;
+    color: red;
+}
+
+

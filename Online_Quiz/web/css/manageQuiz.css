@@ -1,0 +1,31 @@
+.blue-text{
+    color: blue;
+}
+#paging{
+    float: right;
+    margin-top: 40px;
+    margin-right: 50px;
+}
+#paging a,span{
+    padding-left : 3px;
+}
+a:visited{
+    color: blue;
+}
+
+a{
+    color: blue;
+}
+table{
+    width: 100%;
+}
+
+#first{
+    width: 60%;
+}
+#second{
+    width: 25%;
+}
+#third{
+    width: 15%;
+}

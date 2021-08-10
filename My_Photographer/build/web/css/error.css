@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.content{
+    min-height: 80vh;
+    background-color: #aa4043;
+    background-image: url(/My_Photographer/images/bg.png);
+    color: white;
+    
+    padding-bottom: 4rem;
+    display: flex;
+   
+}
+.content .left{
+    width: 68%;
+    padding-left: 7rem;
+    padding-top: 1rem;
+}

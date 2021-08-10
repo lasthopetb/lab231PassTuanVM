@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+
+
+.right{
+    width: 20%;
+    padding-left: 2rem;
+    padding-top: 1rem;  
+}
+.right .title{
+    background-color: black;
+    font-size: 16px;
+    padding: 3px 10px;
+}
+.right .share-content{
+    background-color: rgba(67,25,26, 0.4);
+    padding: 15px 0 15px 15px;
+}
+.right .share-content p{
+    margin: 2px 0;
+}
+.right .share-content p img{
+    width: 15px;
+    margin-right: 5px;
+}
+.right .share-content p a{
+    color: white;
+    font-size: 13px;
+}
